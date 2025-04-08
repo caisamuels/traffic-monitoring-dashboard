@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Build files
+/build
+/dist
+
+# IDE files
+.vscode/
+.idea/
+
+# MongoDB local data
+/data/db
+
+# Log files
+*.log
